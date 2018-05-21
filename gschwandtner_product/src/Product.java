@@ -16,4 +16,9 @@ class Product
 	{
 		this.name = name;
 	}
+	
+	public String toString()
+	{
+		
+	}
 }
