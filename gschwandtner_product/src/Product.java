@@ -2,6 +2,7 @@ class Product
 {
 	String name = "Coca Cola";
 	int price;
+	int anzahl;
 	
 	public Product()
 	{
